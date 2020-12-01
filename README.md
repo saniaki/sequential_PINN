@@ -18,12 +18,18 @@ This model solves the governing coupled system of differential equations -- incl
 <br>
 <br>
 
+![](Readme_Images/Figure_05.png)
+*A schematic of a discontinuous network architecture utilized for the bi-material problem. Two separate networks T− and T+ are combined with Heaviside step function H to construct the solution space for T.*
+<br>
+<br>
+<br>
+<br>
 
-![](Readme_Images/Figure_04.png)
-* A schematic of a discontinuous network architecture utilized for the bi-material problem. Two separate networks T− and T+ are combined with Heaviside step function H to construct the solution space for T.*
+*Temperature and degree of cure predictions from PINN and FEM for a 30mm composites on a 20mm tool with convective heat transfer at boundary*
 <br>
 <br>
 <br>
 <br>
+
 
 
