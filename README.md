@@ -8,16 +8,16 @@ This model solves the governing coupled system of differential equations -- incl
 <p align="center">
 <img  align="center" src="https://github.com/saniaki/Sequential_PINN/blob/main/README_Images/Figure_01.png" width="500"/>
  </p>
-*A schematic of composite-tool material system inside an autoclave; (Right) autoclave air temperature history during the processing time.*
+**A schematic of composite-tool material system inside an autoclave; (Right) autoclave air temperature history during the processing time.**
 <br>
 <br>
 <br>
 <br>
 
 <p align="center">
-<img  align="center" src="https://github.com/saniaki/Sequential_PINN/blob/main/README_Images/Figure_02.png" width="500"/>
+<img  align="center" src="https://github.com/saniaki/Sequential_PINN/blob/main/README_Images/Figure_03.png" width="500"/>
 </p>
-*Two separate networks are constructed for T and alpha with sequential training first on alpha, and then on T, until convergence.*
+**Two separate networks are constructed for T and alpha with sequential training first on alpha, and then on T, until convergence.**
 <br>
 <br>
 <br>
@@ -26,7 +26,7 @@ This model solves the governing coupled system of differential equations -- incl
 <p align="center">
 <img  align="center" src="https://github.com/saniaki/Sequential_PINN/blob/main/README_Images/Figure_04.png" width="500"/>
 </p>
-*A schematic of a discontinuous network architecture utilized for the bi-material problem. Two separate networks T− and T+ are combined with Heaviside step function H to construct the solution space for T.*
+**A schematic of a discontinuous network architecture utilized for the bi-material problem. Two separate networks T− and T+ are combined with Heaviside step function H to construct the solution space for T.**
 <br>
 <br>
 <br>
@@ -45,7 +45,7 @@ As an example, the results for case study 2 is: <br>
 <p align="center">
 <img  align="center" src="https://github.com/saniaki/Sequential_PINN/blob/main/README_Images/Figure_05.png" width="500"/> 
 </p>
-*Temperature and degree of cure predictions from PINN and FEM for a 30mm composites on a 20mm tool with convective heat transfer at boundary*
+**Temperature and degree of cure predictions from PINN and FEM for a 30mm composites on a 20mm tool with convective heat transfer at boundary**
 <br>
 <br>
 <br>
