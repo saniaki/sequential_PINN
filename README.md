@@ -14,14 +14,18 @@ This model solves the governing coupled system of differential equations -- incl
 <br>
 <br>
 
+<p align="center">
 <img  align="center" src="https://github.com/saniaki/Sequential_PINN/blob/main/README_Images/Figure_02.png" width="500"/>
+</p>
 *Two separate networks are constructed for T and alpha with sequential training first on alpha, and then on T, until convergence.*
 <br>
 <br>
 <br>
 <br>
 
+<p align="center">
 <img  align="center" src="https://github.com/saniaki/Sequential_PINN/blob/main/README_Images/Figure_04.png" width="500"/>
+</p>
 *A schematic of a discontinuous network architecture utilized for the bi-material problem. Two separate networks T− and T+ are combined with Heaviside step function H to construct the solution space for T.*
 <br>
 <br>
@@ -29,14 +33,18 @@ This model solves the governing coupled system of differential equations -- incl
 <br>
 
 Four case studies are available here: <br>
+<p align="center">
 <img  align="center" src="https://github.com/saniaki/Sequential_PINN/blob/main/README_Images/Case_Studies.png" width="500"/>
+</p>
 <br>
 <br>
 <br>
 <br>
 
 As an example, the results for case study 2 is: <br>
-<img  align="center" src="https://github.com/saniaki/Sequential_PINN/blob/main/README_Images/Figure_05.png" width="500"/>
+<p align="center">
+<img  align="center" src="https://github.com/saniaki/Sequential_PINN/blob/main/README_Images/Figure_05.png" width="500"/> 
+</p>
 *Temperature and degree of cure predictions from PINN and FEM for a 30mm composites on a 20mm tool with convective heat transfer at boundary*
 <br>
 <br>
