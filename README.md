@@ -25,6 +25,14 @@ This model solves the governing coupled system of differential equations -- incl
 <br>
 <br>
 
+Four case studies are available here:
+![](README_Images/Case_Studies.png)
+<br>
+<br>
+<br>
+<br>
+
+As an example, the results for case study 2 is:
 ![](README_Images/Figure_05.png)
 *Temperature and degree of cure predictions from PINN and FEM for a 30mm composites on a 20mm tool with convective heat transfer at boundary*
 <br>
