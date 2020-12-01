@@ -41,4 +41,7 @@ As an example, the results for case study 2 is:
 <br>
 
 
+<img src="https://github.com/saniaki/Sequential_PINN/blob/main/README_Images/Figure_01.png" width="100" height="100"/>
+
+
 
