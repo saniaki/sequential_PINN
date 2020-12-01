@@ -5,7 +5,8 @@ S. A. Niaki, E. Haghighat, X. Li, T. Campbell, and R. Vaziri, Physics-Informed N
 ### Summary
 This model solves the governing coupled system of differential equations -- including conductive heat transfer and resin cure kinetics -- by optimizing the parameters of a deep neural network using a physics-based loss function. To account for the vastly different behaviour of thermal conduction and resin cure,  PINN consisting of two disconnected subnetworks is designed, and a sequential training algorithm is developed that mitigates instability present in traditional training methods. An explicit discontinuities into the DNN at the composite-tool interface and enforce known physical behaviour directly in the loss function to improve the solution near the interface is incorporate . Finally, training of the PINN is performed with a technique that automatically adapts the weights on the loss terms corresponding to PDE, boundary, interface, and initial conditions. The performance of the proposed PINN is demonstrated in multiple scenarios with different material thicknesses and thermal boundary conditions in comparison to results from classical numerical methods, i.e. Finite Elemenet Method.
 
-<img scr="Figure_01.png">
+
+![](Readme_Images/Figure_01.png)
 *A schematic of composite-tool material system inside an autoclave; (Right) autoclave air temperature history during the processing time.*
 <br>
 <br>
