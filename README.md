@@ -8,8 +8,10 @@ This model solves the governing coupled system of differential equations -- incl
 
 ![](Figure_01.png)
 *A schematic of composite-tool material system inside an autoclave; (Right) autoclave air temperature history during the processing time.*
-
-
+<br>
+<br>
+<br>
+<br>
 ![](Figure_03.png)
 Two separate networks are constructed for T and alpha with sequential training first on alpha, and then on T, until convergence
 
