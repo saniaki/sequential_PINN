@@ -11,7 +11,7 @@ This model solves the governing coupled system of differential equations -- incl
 <br>
 <br>
 <br>
-![](Figure_03.png)
+![](Readme_Images/Figure_03.png)
 *Two separate networks are constructed for T and alpha with sequential training first on alpha, and then on T, until convergence.*
 <br>
 <br>
@@ -19,7 +19,7 @@ This model solves the governing coupled system of differential equations -- incl
 <br>
 
 
-![](Figure_04.png)
+![](Readme_Images/Figure_04.png)
 * A schematic of a discontinuous network architecture utilized for the bi-material problem. Two separate networks T− and T+ are combined with Heaviside step function H to construct the solution space for T.*
 <br>
 <br>
