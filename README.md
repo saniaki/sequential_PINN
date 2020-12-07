@@ -37,7 +37,8 @@ As an example, Temperature and degree of cure predictions from PINN and FEM for 
 <br>
 <br>
 <br>
-**Acknowledgement** <br>
+
+#### Acknowledgement <br>
 This model is developed with support of <br>
 <br>
 <p align="center">
