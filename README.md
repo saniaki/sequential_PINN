@@ -42,4 +42,4 @@ As an example, Temperature and degree of cure predictions from PINN and FEM for 
 This model is developed with support of <br>
 <br>
 <p align="center">
-<img  align="center" src="https://github.com/saniaki/active_learning/blob/main/README_Images/image02.png"/> 
+<img  align="center" src="https://github.com/saniaki/sequential_PINN/blob/main/README_Images/image02.png"/> 
